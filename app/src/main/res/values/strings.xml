@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Quản Lý Công Việc</string>
+    <string name="task_list">Danh sách công việc</string>
+    <string name="add_task">Thêm công việc</string>
+    <string name="edit_task">Sửa công việc</string>
+
+    <string name="stats_total">Tổng số: %1$d</string>
+    <string name="stats_completed">Đã xong: %1$d</string>
+    <string name="stats_pending">Chưa xong: %1$d</string>
+
+    <string name="search_hint">Tìm kiếm tên công việc...</string>
+    <string name="status_filter_label">Trạng thái:</string>
+    <string name="priority_filter_label">Mức ưu tiên:</string>
+
+    <string name="filter_all">Tất cả</string>
+    <string name="filter_pending">Chưa thực hiện</string>
+    <string name="filter_completed">Đã hoàn thành</string>
+
+    <string name="priority_low">Thấp</string>
+    <string name="priority_medium">Trung bình</string>
+    <string name="priority_high">Cao</string>
+
+    <string name="task_title_hint">Tên công việc (*)</string>
+    <string name="task_desc_hint">Mô tả công việc</string>
+    <string name="task_due_date_hint">Ngày hết hạn</string>
+    <string name="select_date">Chọn ngày</string>
+    <string name="priority">Mức độ ưu tiên</string>
+
+    <string name="btn_save">Lưu</string>
+    <string name="btn_cancel">Hủy</string>
+    <string name="btn_edit">Sửa</string>
+    <string name="btn_delete">Xóa</string>
+
+    <string name="empty_title_error">Vui lòng nhập tên công việc!</string>
+    <string name="confirm_delete_title">Xác nhận xóa</string>
+    <string name="confirm_delete_msg">Bạn có chắc chắn muốn xóa công việc này?</string>
+    <string name="yes">Có</string>
+    <string name="no">Không</string>
+    <string name="no_tasks">Chưa có công việc nào.</string>
+</resources>
